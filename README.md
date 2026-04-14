@@ -1,6 +1,7 @@
 Hi, I'm Sampurna Das 
 
 Aspiring Data Analyst exploring Data Science and Machine Learning.
+
 I focus on filtering the "noise" of raw data to uncover the clear, actionable narratives hidden within.
 
 Skills : 
