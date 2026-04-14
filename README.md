@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Sampurna Das 
 
-<!--
-**nebulaphantomm/nebulaphantomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst exploring Data Science and Machine Learning.
+I focus on filtering the "noise" of raw data to uncover the clear, actionable narratives hidden within.
 
-Here are some ideas to get you started:
+Skills : 
+Python • SQL • Power BI • Tableau • Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Education : 
+B.Tech, Dr. B.C. Roy Engineering College, Durgapur (currently a sophomore)
+Higher Secondary, DAV Model School, Durgapur , 2024
+
+Goal : 
+To turn data into insight, and insight into intelligent decisions that shape the future.
