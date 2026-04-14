@@ -1,6 +1,6 @@
 Hi, I'm Sampurna Das 
 
-Aspiring Data Analyst exploring Data Science and Machine Learning.
+Aspiring Data Analyst || Exploring Data Science & Machine Learning || Data Visualization
 
 I focus on filtering the "noise" of raw data to uncover the clear, actionable narratives hidden within.
 
@@ -9,6 +9,7 @@ Python • SQL • Power BI • Tableau • Excel
 
 Education : 
 B.Tech, Dr. B.C. Roy Engineering College, Durgapur (currently a sophomore)
+
 Higher Secondary, DAV Model School, Durgapur , 2024
 
 Goal : 
