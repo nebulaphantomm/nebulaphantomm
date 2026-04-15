@@ -1,4 +1,4 @@
-Hi, I'm Sampurna Das 
+Hello, I'm Sampurna Das 
 
 Aspiring Data Analyst || Exploring Data Science & Machine Learning || Data Visualization
 
